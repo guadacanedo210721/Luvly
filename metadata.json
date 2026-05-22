@@ -1,0 +1,6 @@
+{
+  "name": "Cartas a mi Amor",
+  "description": "Un hermoso rincón de cartas de amor, línea de tiempo y recuerdos para celebrar tu relación y mesiversario con tu pareja.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
